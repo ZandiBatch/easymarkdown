@@ -1,0 +1,4 @@
+User-agent: *
+Allow:/
+
+Sitemap: https://easymarkdown.kro.kr/sitemap.xml
